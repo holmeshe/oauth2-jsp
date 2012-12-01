@@ -7,4 +7,4 @@ This is an implementation of oauth2.0 translated from https://github.com/quizlet
 
 Like the PHP version, it is straightforward thus easy to understand and test.
 
-And I revised some bug from the php version, so you can establish a runnable experimental enviroment in less than 5 minute, provided that you know how to compile the code and have a runing web server.
+And I revised some bugs in the php version, so you can establish a runnable experimental enviroment in less than 5 minute, provided that you know how to compile the code and have a runing web server.
